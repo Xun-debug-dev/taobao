@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.heima.common.exception.ExceptionCatch,\
+  com.heima.common.swagger.SwaggerConfiguration,\
+  com.heima.common.redis.RedisCacheService,\
+  com.heima.common.jackson.InitJacksonConfig

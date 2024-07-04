@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.heima.audit.baidu.BaiduTextScan,\
+  com.heima.audit.baidu.BaiduImageScan,\
+  com.heima.audit.tess4j.Tess4jClient

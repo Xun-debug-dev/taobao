@@ -1,0 +1,10 @@
+server:
+  port: 51808
+spring:
+  application:
+    name: leadnews-comment
+  cloud:
+    nacos:
+      server-addr: 192.168.200.128:8848
+      config:
+        file-extension: yml
